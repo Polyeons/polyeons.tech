@@ -1,0 +1,18 @@
+---
+version: "2.1"
+services:
+  ombi:
+    image: ghcr.io/linuxserver/ombi:4.39.1
+    #container_name: ombi
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=$TZ
+      - BASE_URL=/$BASE_URL #optional
+    volumes:
+      - config:/config
+    ports:
+      - $PORT_HTTP:3579
+    restart: unless-stopped
+volumes:
+  config:
