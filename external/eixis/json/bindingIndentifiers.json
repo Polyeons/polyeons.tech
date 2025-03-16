@@ -1,5 +1,4 @@
 {
-    "KeyboardEscape": {"keycode": "Escape", "imgid": 76626805178688, "scale": [0.103, 0, 0.727, 0]},
     "Keyboard1": {"keycode": "One", "imgid": 102998224023264, "scale": [0.103, 0, 0.727, 0]},
     "Keyboard2": {"keycode": "Two", "imgid": 107102531821165, "scale": [0.103, 0, 0.727, 0]},
     "Keyboard3": {"keycode": "Three", "imgid": 115562906438607, "scale": [0.103, 0, 0.727, 0]},
@@ -15,7 +14,6 @@
     "KeyboardBackspace": {"keycode": "Backspace", "imgid": 117087811614513, "scale": [0.137, 0, 0.97, 0]},
     "KeyboardTab": {"keycode": "Tab", "imgid": 107594894541812, "scale": [0.137, 0, 0.97, 0]},
     "KeyboardQ": {"keycode": "Q", "imgid": 91686679611955, "scale": [0.103, 0, 0.727, 0]},
-    "KeyboardW": {"keycode": "W", "imgid": 111967018038787, "scale": [0.103, 0, 0.727, 0]},
     "KeyboardE": {"keycode": "E", "imgid": 82043298112388, "scale": [0.103, 0, 0.727, 0]},
     "KeyboardR": {"keycode": "R", "imgid": 124380729362922, "scale": [0.103, 0, 0.727, 0]},
     "KeyboardT": {"keycode": "T", "imgid": 130774677025478, "scale": [0.103, 0, 0.727, 0]},
@@ -28,9 +26,6 @@
     "KeyboardClosedBracket": {"keycode": "RightBracket", "imgid": 105018308556572, "scale": [0.103, 0, 0.727, 0]},
     "KeyboardBackwardSlash": {"keycode": "BackSlash", "imgid": 114418643690280, "scale": [0.103, 0, 0.727, 0]},
     "KeyboardCapsLock": {"keycode": "CapsLock", "imgid": 89407810269184, "scale": [0.137, 0, 0.97, 0]},
-    "KeyboardA": {"keycode": "A", "imgid": 107504419471441, "scale": [0.103, 0, 0.727, 0]},
-    "KeyboardS": {"keycode": "S", "imgid": 94399635829185, "scale": [0.103, 0, 0.727, 0]},
-    "KeyboardD": {"keycode": "D", "imgid": 122244871566526, "scale": [0.103, 0, 0.727, 0]},
     "KeyboardF": {"keycode": "F", "imgid": 112230295324243, "scale": [0.103, 0, 0.727, 0]},
     "KeyboardG": {"keycode": "G", "imgid": 74863158033491, "scale": [0.103, 0, 0.727, 0]},
     "KeyboardH": {"keycode": "H", "imgid": 78415801949807, "scale": [0.103, 0, 0.727, 0]},
